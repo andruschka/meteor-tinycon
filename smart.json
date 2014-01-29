@@ -1,0 +1,8 @@
+{
+  "name": "tinycon",
+  "description": "Tinycon, packed for Meteor",
+  "homepage": "https://github.com/and-fri/meteor-tinycon",
+  "author": "and-fri",
+  "version": "0.0.1",
+  "git": "https://github.com/and-fri/meteor-tinycon.git"
+}
