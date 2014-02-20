@@ -1,6 +1,6 @@
 {
   "name": "tinycon",
-  "description": "Tinycon, packed for Meteor",
+  "description": "Tinycon, manipulating the favicon",
   "homepage": "https://github.com/and-fri/meteor-tinycon",
   "author": "and-fri",
   "version": "0.0.1",

@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "Tinycon.js, packed for Meteor."
+  summary: "Tinycon, manipulating the favicon"
 });
 
 Package.on_use(function(api) {
