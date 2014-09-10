@@ -1,8 +1,0 @@
-{
-  "name": "tinycon",
-  "description": "Tinycon, manipulating the favicon",
-  "homepage": "https://github.com/and-fri/meteor-tinycon",
-  "author": "and-fri",
-  "version": "0.0.1",
-  "git": "https://github.com/and-fri/meteor-tinycon.git"
-}
